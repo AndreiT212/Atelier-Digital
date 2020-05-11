@@ -14,7 +14,6 @@ public class Main
         elements[1]=b2;
         elements[2]=v;
         elements[3]=a;
-
         Visitor visitor=new CostVisitor();
         System.out.println(((CostVisitor) visitor).getTotalCost());
 
