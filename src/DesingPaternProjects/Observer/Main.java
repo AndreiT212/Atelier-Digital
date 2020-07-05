@@ -1,8 +1,9 @@
-package DesingPaaternProjects.Observer;
+package DesingPaternProjects.Observer;
 
 public class Main
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Subject subject = new Subject();
 
         HexadecimalObserver o1=new HexadecimalObserver(subject);

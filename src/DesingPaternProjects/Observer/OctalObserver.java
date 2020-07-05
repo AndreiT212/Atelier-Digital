@@ -1,4 +1,4 @@
-package DesingPaaternProjects.Observer;
+package DesingPaternProjects.Observer;
 
 public class OctalObserver extends Observer
 {

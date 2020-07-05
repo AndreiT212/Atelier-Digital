@@ -1,4 +1,4 @@
-package DesingPaaternProjects.Observer;
+package DesingPaternProjects.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
